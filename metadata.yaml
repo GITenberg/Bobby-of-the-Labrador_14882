@@ -1,0 +1,31 @@
+_repo: Bobby-of-the-Labrador_14882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Dillon
+    birthdate: 1863
+    deathdate: 1939
+    gutenberg_agent_id: '1361'
+    url: http://www.gutenberg.org/2009/agents/1361
+    wikipedia: http://en.wikipedia.org/wiki/Dillon_Wallace
+description: As a little boy of three, Bobby had been picked up in an open boat by
+  Abel Zachariah. It is in the cabin of Abel and Mrs. Abel, christianized Inuit, that
+  he spends his boyhood.
+gutenberg_issued: '2005-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Polar regions -- Juvenile fiction'
+title: Bobby of the Labrador
+url: http://www.gutenberg.org/ebooks/14882
